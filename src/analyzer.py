@@ -1,5 +1,4 @@
 import re
-import pandas as pd
 
 
 def ip_analyze_log_file(file_path):
