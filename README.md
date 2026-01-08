@@ -30,12 +30,13 @@ log-file-analyzer-python/
 │   └── log_summary.txt  
 |    
 |-- README.md
-|-- .gitignore    
+|-- .gitignore
+|-- requirements.txt  
 ```
 
 ## Installation
 ```
-Clone the repository -> git clone https://github.com/Parashuram-V-Pawar/urban-mobility-fleet-management.git
+Clone the repository -> git clone https://github.com/Parashuram-V-Pawar/log-file-analyzer-python.git
 
 Move to project folder 
     -> cd log-file-analyzer-python
