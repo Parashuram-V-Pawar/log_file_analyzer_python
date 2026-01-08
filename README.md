@@ -21,7 +21,7 @@ The Log File Analyzer is a Python-based tool that parses server or application l
 
 ## Project Structure
 ```
-LogFileAnalyzer/
+log-file-analyzer-python/
 │
 |-- src/
 |   |-- log_create.py
@@ -34,17 +34,21 @@ LogFileAnalyzer/
 ```
 
 ## Installation
+```
 Clone the repository -> git clone https://github.com/Parashuram-V-Pawar/urban-mobility-fleet-management.git
 
-Move to project folder -> cd log-file-analyzer-python
+Move to project folder 
+    -> cd log-file-analyzer-python
 
-Install dependencies -> pip install -r requirements.txt
+Install dependencies 
+    -> pip install -r requirements.txt
 
 Run the application 
     -> First generate log file 
         -> python log_create.py
     -> Then, run analyzer
         -> python analyzer.py
+```
 
 ## Author
 ```
